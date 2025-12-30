@@ -4,7 +4,7 @@
 
    Author: Roofio 
    Year:   2025
-   GitHub: https://github.com/yourusername/ESP32-SerialSniffer
+   GitHub: https://github.com/Roofio/ESP32-SerialSniffer
 
    License: MIT
    See LICENSE file in the repository for full details.
